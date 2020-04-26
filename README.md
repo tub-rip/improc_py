@@ -6,4 +6,5 @@ Files:
 - [images](images/) : folder with test images
 - [videos](videos/) : folder with supporting animations
 
+- [ex1_imgproc_notebook.ipynb] : Jupyter notebook with Python code
 - [ex1_imgproc_solutions.py](ex1_imgproc_solutions.py) : Python code with solution
